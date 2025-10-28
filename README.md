@@ -52,7 +52,7 @@ Since this is a single-file React component, local setup requires a standard Nod
 
 Clone the Repository:
 
-git clone [Your Repository URL]
+git clone [https://github.com/Zenieverse/Defi-Duel]
 cd defi-duel
 
 
