@@ -4,6 +4,11 @@ DeFi Duel is a real-time, zero-collateral, competitive platform that allows user
 
 https://gemini.google.com/share/bc5c654d8f44
 
+![IMG_1329](https://github.com/user-attachments/assets/44a1e778-792d-4b00-8dd4-03a24b89cb40)
+
+
+<img width="1024" height="1024" alt="IMG_1317" src="https://github.com/user-attachments/assets/e0786c18-6908-43a5-9432-fdbd25fefadd" />
+
 
 
 Features
